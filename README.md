@@ -20,6 +20,11 @@ Classes to write for this program:
 4. Sale - Stores a list of items sold in a single order, and the total cost, purchaser, sale ID number.
 5. SalesRecord - stores a list of every order that has been processed.
 
-Prewritten Classes to use
+After the above classes have been written and tested fully, I will research JFrames and create a GUI to make interaction with the program easier.
+
+
+Prewritten Classes to use:
+Jframe (and friends)
+
 
 Features to include:
